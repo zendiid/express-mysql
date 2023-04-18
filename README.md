@@ -2,3 +2,4 @@
 - npm install express nodemon => install express & nodemon
 - npm start/ nodemon index.js => run express
 - npm install mysql2 => install mysql in express
+- npm install multer => instal multer (upload images)
